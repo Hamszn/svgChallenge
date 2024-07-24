@@ -1,0 +1,20 @@
+{
+  
+    "name": "svg-challenge",
+    "version": "1.0.0",
+    "description": "SVG Challenge",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^29.7.0"
+    },
+
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.7.0"
+  }
+}
